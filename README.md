@@ -8,4 +8,4 @@ Watching tutorial on Youtube
 
 ## Local development
 
-1. Open index.html in your browser
+1. Open index.html in your browser, and have some coffee.
